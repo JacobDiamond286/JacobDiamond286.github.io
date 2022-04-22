@@ -4024,3 +4024,16 @@ input, select, textarea {
 	align-items: center;
 	justify-content: center;
 }
+
+#pfp {
+	width: 600px;
+	margin-top: 75px;
+}
+
+#pfp-container {
+	display: flex;
+}
+
+#pfp-text {
+	margin-right: 100px
+}
